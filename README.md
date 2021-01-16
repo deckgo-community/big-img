@@ -4,7 +4,7 @@
 [npm-badge]: https://img.shields.io/npm/v/@deckdeckgo/slide-big-img
 [npm-badge-url]: https://www.npmjs.com/package/@deckdeckgo/slide-big-img
 [npm-license]: https://img.shields.io/npm/l/@deckdeckgo/slide-big-img
-[npm-license-url]: https://github.com/deckgo-community/big-img/blob/master/webcomponents/slides/big-img/LICENSE
+[npm-license-url]: https://github.com/deckgo-community/big-img/blob/master/LICENSE
 
 # DeckDeckGo - Slide "Big Image"
 
